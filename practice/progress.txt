@@ -35,3 +35,7 @@ Que 7 - Edited progress.txt directly on GitHub - progress.txt edited on: GitHub 
 Description: "Made changes (added the description for Question 7 and adjusted spacing between each question) to progress.txt using the GitHub website and committed it on the website."
 
 
+Que 8 - git pull origin main - progress.txt edited on: local machine - command ran on: local machine
+Description: "Fetched and merged the latest changes from origin/main into my local main."
+
+
