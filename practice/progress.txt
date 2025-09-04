@@ -45,3 +45,7 @@ Description: "Created a new branch called feature1 to make changes separately. T
 
 Que 10 - git checkout feature1 - progress.txt edited on: local machine - command ran on: local machine
 Description: "Switched the working directory to feature1 so new commits go there."
+
+
+Que 11 - Edit app.py using an editor - progress.txt edited on: local machine - command ran on: local machine
+Description: "Edited app.py to change the print message to 'Goodbye World!'."
