@@ -10,27 +10,28 @@ Setup 3 - Created practice/ folder and practice/progress.txt file
 Que 1 - git init - progress.txt edited on: local machine - command ran on: local machine
 Description: "Initialised a Git repository in my project folder (located in my desktop)"
 
- 
 
 Que 2 - echo "Hello World" > app.py - progress.txt edited on: local machine - command ran on: local machine
 Description: "Created a sample Python file app.py at the root of the repository with a Hello World line. This was done using the Windows echo command"
 
- 
 
 Que 3 - git add . - progress.txt edited on: local machine - command ran on: local machine
 Description: "Staged all current files for commit, including app.py and practice/progress.txt. This moves files into the staging area, to be included in the next commit "
 
- 
 
 Que 4 - git commit -m "Initial commit" - progress.txt edited on: local machine - command ran on: local machine
 Description: "Committed the staged files with a message, indicating that this was the first commit"
 
- 
 
 Que 5 - git remote add origin <repo-url> - progress.txt edited on: local machine - command ran on: local machine
 Description: "This command links the local repository to GitHub repository"
 
- 
 
 Que 6 - git push -u origin main - progress.txt edited on: local machine - command ran on: local machine
 Description: ""Pushed the initial commit to the 'main' branch on GitHub. Now plain 'git push'/'git pull' will target origin/main by default, and the files will be visible on GitHub."
+
+
+Que 7 - Edited progress.txt directly on GitHub - progress.txt edited on: GitHub website - command ran on: GitHub website
+Description: "Made changes (added the description for Question 7 and adjusted spacing between each question) to progress.txt using the GitHub website and committed it on the website."
+
+
