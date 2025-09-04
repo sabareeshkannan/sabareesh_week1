@@ -49,3 +49,7 @@ Description: "Switched the working directory to feature1 so new commits go there
 
 Que 11 - Edit app.py using an editor - progress.txt edited on: local machine - command ran on: local machine
 Description: "Edited app.py to change the print message to 'Goodbye World!'."
+
+
+Que 12 - git add app.py ; git commit -m "Updated Hello World on feature1 branch" - progress.txt edited on: local machine - command ran on: local machine
+Description: "Staged the app.py edit and committed it on the feature1 branch to save the change."
