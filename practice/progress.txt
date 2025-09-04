@@ -39,3 +39,6 @@ Que 8 - git pull origin main - progress.txt edited on: local machine - command r
 Description: "Fetched and merged the latest changes from origin/main into my local main."
 
 
+Que 9 - git branch feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Created a new branch called feature1 to make changes separately. This keeps work off the main branch"
+
