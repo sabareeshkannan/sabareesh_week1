@@ -85,3 +85,7 @@ Description: "Checked the status of the working directory and staging area."
 
 Que 20 - git log --oneline --graph - progress.txt edited on: local machine - command ran on: local machine
 Description: "Viewed a compact commit graph to see recent history and branch structure."
+
+
+Que 21 - git remote -v - progress.txt edited on: local machine - command ran on: local machine
+Description: Displayed the remote URLs for both fetch and push to check that the origin remote is correctly configured and pointing to the intended repository"
