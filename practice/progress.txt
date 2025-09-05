@@ -77,3 +77,7 @@ Description: "Created test-branch, pushed it to origin, and set upstream to sync
 
 Que 18 - git branch -a - progress.txt edited on: local machine - command ran on: local machine
 Description: "Listed out all branches (local and remote)."
+
+
+Que 19 - git status - progress.txt edited on: local machine - command ran on: local machine
+Description: "Checked the status of the working directory and staging area."
