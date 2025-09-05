@@ -73,3 +73,7 @@ Description: "Deleted the local feature1 branch after merge to keep things tidy.
 
 Que 17 - git checkout -b test-branch ; git push -u origin test-branch - progress.txt edited on: local machine - command ran on: local machine
 Description: "Created test-branch, pushed it to origin, and set upstream to synchronise across branches."
+
+
+Que 18 - git branch -a - progress.txt edited on: local machine - command ran on: local machine
+Description: "Listed out all branches (local and remote)."
