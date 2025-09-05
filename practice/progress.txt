@@ -53,3 +53,7 @@ Description: "Edited app.py to change the print message to 'Goodbye World!'."
 
 Que 12 - git add app.py ; git commit -m "Updated Hello World on feature1 branch" - progress.txt edited on: local machine - command ran on: local machine
 Description: "Staged the app.py edit and committed it on the feature1 branch to save the change."
+
+
+Que 13 - git checkout main - progress.txt edited on: local machine - command ran on: local machine
+Description: "Switched back to main to integrate the finished change."
