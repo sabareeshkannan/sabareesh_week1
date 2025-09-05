@@ -93,3 +93,7 @@ Description: Displayed the remote URLs for both fetch and push to check that the
 
 Que 22 - git help branch - progress.txt edited on: local machine - command ran on: local machine
 Description: "Opened the manual page for git-branch to view documentation and explanations for the various commands."
+
+
+Que 23 - Create .gitignore (via editor) - progress.txt edited on: local machine - command ran on: local machine
+Description: "Created a .gitignore to ignore .DS_Store, .ipynb_checkpoints/, __pycache__/ and a demo rough.txt. Used the git check-ignore command to verify if the file works."
