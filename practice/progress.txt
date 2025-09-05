@@ -89,3 +89,7 @@ Description: "Viewed a compact commit graph to see recent history and branch str
 
 Que 21 - git remote -v - progress.txt edited on: local machine - command ran on: local machine
 Description: Displayed the remote URLs for both fetch and push to check that the origin remote is correctly configured and pointing to the intended repository"
+
+
+Que 22 - git help branch - progress.txt edited on: local machine - command ran on: local machine
+Description: "Opened the manual page for git-branch to view documentation and explanations for the various commands."
