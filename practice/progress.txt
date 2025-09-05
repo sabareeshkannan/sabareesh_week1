@@ -65,3 +65,7 @@ Description: "Merged feature1 into main so main includes updates made in the fea
 
 Que 15 - git push - progress.txt edited on: local machine - command ran on: local machine
 Description: "Pushed the updated main branch to GitHub."
+
+
+Que 16 - git branch -d feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Deleted the local feature1 branch after merge to keep things tidy."
