@@ -69,3 +69,7 @@ Description: "Pushed the updated main branch to GitHub."
 
 Que 16 - git branch -d feature1 - progress.txt edited on: local machine - command ran on: local machine
 Description: "Deleted the local feature1 branch after merge to keep things tidy."
+
+
+Que 17 - git checkout -b test-branch ; git push -u origin test-branch - progress.txt edited on: local machine - command ran on: local machine
+Description: "Created test-branch, pushed it to origin, and set upstream to synchronise across branches."
