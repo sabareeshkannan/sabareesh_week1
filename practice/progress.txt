@@ -42,3 +42,6 @@ Description: "Fetched and merged the latest changes from origin/main into my loc
 Que 9 - git branch feature1 - progress.txt edited on: local machine - command ran on: local machine
 Description: "Created a new branch called feature1 to make changes separately. This keeps work off the main branch"
 
+
+Que 14 - git merge feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Merged feature1 into main so main includes updates made in the feature1 branch."
