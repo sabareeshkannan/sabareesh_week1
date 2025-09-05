@@ -61,3 +61,7 @@ Description: "Switched back to main to integrate the finished change."
 
 Que 14 - git merge feature1 - progress.txt edited on: local machine - command ran on: local machine
 Description: "Merged feature1 into main so main includes updates made in the feature1 branch."
+
+
+Que 15 - git push - progress.txt edited on: local machine - command ran on: local machine
+Description: "Pushed the updated main branch to GitHub."
