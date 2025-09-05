@@ -101,3 +101,7 @@ Description: "Created a .gitignore to ignore .DS_Store, .ipynb_checkpoints/, __p
 
 Que 24 - git add .gitignore ; git commit -m "Add .gitignore file" - progress.txt edited on: local machine - command ran on: local machine
 Description: "Added and commited the .gitignore file."
+
+
+Que 25 - git push - progress.txt edited on: local machine - command ran on: local machine
+Description: "Pushed the .gitignore commit to GitHub."
